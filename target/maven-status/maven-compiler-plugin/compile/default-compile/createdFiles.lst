@@ -1,6 +1,0 @@
-com/mobiquityinc/packer/service/PackingService.class
-com/mobiquityinc/exception/APIException.class
-com/mobiquityinc/packer/model/Packable.class
-com/mobiquityinc/packer/service/GreedyPackingService.class
-com/mobiquityinc/packer/Packer.class
-com/mobiquityinc/packer/model/Thing.class
